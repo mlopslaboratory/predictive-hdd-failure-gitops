@@ -1,0 +1,7 @@
+resources:
+  - ../../base
+
+images:
+  - name: predictive-hdd-failure-api
+    newName: predictive-hdd-failure-api
+    newTag: local
