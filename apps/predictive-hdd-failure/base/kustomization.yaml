@@ -2,3 +2,5 @@ resources:
   - namespace.yaml
   - deployment.yaml
   - service.yaml
+  - prometheus.yaml
+  - grafana.yaml
