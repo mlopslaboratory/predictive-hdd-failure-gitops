@@ -3,5 +3,5 @@ resources:
 
 images:
   - name: predictive-hdd-failure-api
-    newName: predictive-hdd-failure-api
-    newTag: local
+    newName: ghcr.io/mlopslaboratory/predictive-hdd-failure-api
+    newTag: ec7db808c89c2c7ddf1c51aa68f5a22bd6d758f5
